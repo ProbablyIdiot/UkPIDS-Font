@@ -10,4 +10,6 @@ Based on [London Underground Dot Matrix Typface](https://github.com/petykowski/L
 
 ![UkPIDSFontExample1.png](/UkPIDSFontExample1.png)
 
+## License:
 
+This typeface is distributed with an [SIL Open Font License](https://openfontlicense.org/).
