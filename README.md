@@ -8,8 +8,6 @@ Based on [London Underground Dot Matrix Typface](https://github.com/petykowski/L
 
 ![Uk rail information board hi-res stock photography and images - Alamy](https://c8.alamy.com/comp/FBA91R/departures-information-boards-in-the-new-atrium-at-new-street-station-FBA91R.jpg)
 
-![UkPIDSFontExample1.png](/home/zadok/Downloads/UkPIDSFontExample1.png)
-
-
+![UkPIDSFontExample1.png](/UkPIDSFontExample1.png)
 
 
